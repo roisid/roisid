@@ -17,8 +17,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## MyApotek Developer Contact
-Whatsapp : <a href="https://wa.me/6285608658161">085-608-658-161</a>
 
 ## About Laravel
 
@@ -78,5 +76,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## MyApotek Developer Contact
-Whatsapp : <a href="https://wa.me/6285608658161">085-608-658-161</a>
